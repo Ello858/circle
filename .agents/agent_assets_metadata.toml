@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "JJwIMx0nhw0qSqKIczgLS"
+uri = "file://README.md"
+type = "text"
+title = "Circle — README.md"

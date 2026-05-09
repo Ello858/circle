@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.db
+*.db-journal
+server/uploads/*
+!server/uploads/.gitkeep
+.env
+.DS_Store
+.replit
+replit.nix
+*.zip

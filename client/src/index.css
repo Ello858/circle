@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-app-bg text-zinc-100 antialiased font-sans;
+}
+
+/* Smooth scroll for message panes */
+.msg-scroll {
+  scroll-behavior: smooth;
+}
